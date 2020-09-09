@@ -5,16 +5,16 @@
     <title>Bar Agricole</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="title" content="Bar Agricole">
-    <meta name="description" content="TKTK">
+    <meta name="description" content="Bar Agricole is a new field-to-spirit company.">
 
     <meta property="og:site_name" content="Bar Agricole">
     <meta property="og:title" content="Bar Agricole">
     <meta property="og:url" content="https://www.baragricole.co/">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="TKTK">
+    <meta property="og:description" content="Bar Agricole is a new field-to-spirit company.">
     <meta itemprop="name" content="Bar Agricole">
     <meta itemprop="url" content="https://www.baragricole.co/">
-    <meta itemprop="description" content="TKTK">
+    <meta itemprop="description" content="Bar Agricole is a new field-to-spirit company.">
     <meta name="keywords" content="san francisco, bar agricole, spirits, alcohol">
 
     <link rel="shortcut icon" href="" type="image/x-icon">
@@ -24,8 +24,7 @@
     <link rel="stylesheet" href="assets/css/font_main.css">
 
   </head>
-
-
+  
 
   <body>
 
