@@ -283,6 +283,11 @@ and (max-width : 645px) {
   .bottom-section__container {
     display: block;
   }
+  .agricole-logo__container--image {
+    top: 2px;
+    left: 0px;
+  }
+  
   .bottom-section__container--outer {
     bottom: 100px;
 
