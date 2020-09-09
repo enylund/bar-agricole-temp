@@ -17,7 +17,7 @@
     <meta itemprop="description" content="Bar Agricole is a new field-to-spirit company.">
     <meta name="keywords" content="san francisco, bar agricole, spirits, alcohol">
 
-    <link rel="shortcut icon" href="" type="image/x-icon">
+    <link href="assets/images/favicons/ba_favicon-32x32.png" rel="shortcut icon" type="image/png" />
 
     <link rel="stylesheet" href="assets/css/_normalize.css">
     <link rel="stylesheet" href="assets/css/cal.css">
