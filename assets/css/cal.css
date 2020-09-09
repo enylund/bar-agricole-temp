@@ -283,6 +283,10 @@ and (max-width : 645px) {
   .bottom-section__container {
     display: block;
   }
+  .bottom-section__container--outer {
+    bottom: 50px;
+
+  }
 
   .bottom-section__container--left,
   .bottom-section__container--right {
