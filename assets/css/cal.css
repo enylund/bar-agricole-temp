@@ -284,7 +284,7 @@ and (max-width : 645px) {
     display: block;
   }
   .bottom-section__container--outer {
-    bottom: 50px;
+    bottom: 100px;
 
   }
 
