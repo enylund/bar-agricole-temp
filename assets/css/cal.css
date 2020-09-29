@@ -12,6 +12,29 @@ input, textarea, select, a {
 
 
 /* Start here */
+#mc_embed_signup_scroll div {
+  display: inline-block;
+}
+
+::-webkit-input-placeholder { /* WebKit browsers */
+   color:    black;
+   opacity: 1 !important;
+   letter-spacing: 0.055em;
+}
+
+input[type=email] {
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #000000;
+  cursor: pointer;
+}
+
+#mc-embedded-subscribe {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+  letter-spacing: 0.055em;
+}
 
 body {
   font-family: arial, helvetica, sans-serif;
