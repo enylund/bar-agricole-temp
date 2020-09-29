@@ -22,6 +22,15 @@
     <link rel="stylesheet" href="assets/css/_normalize.css">
     <link rel="stylesheet" href="assets/css/cal.css">
     <link rel="stylesheet" href="assets/css/font_main.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177784052-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-177784052-1');
+    </script>
 
   </head>
   
