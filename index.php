@@ -66,7 +66,7 @@
           <div class="bottom-section__container--left">
             Join our mailing list
           </div>
-          <div class="bottom-section__container--right">
+          <div class="bottom-section__container--left">
             <!-- Begin Mailchimp Signup Form -->
               <div id="mc_embed_signup">
                 <form action="https://gmail.us2.list-manage.com/subscribe/post?u=19235564b33637abc607e6e23&amp;id=5da1e07bb2"
@@ -89,6 +89,9 @@
                 </form>
               </div>
             <!--End mc_embed_signup-->
+          </div>
+          <div class="bottom-section__container--right">
+            <a class="contact-button" href="mailto:info@baragricole.com">Contact</a>  
           </div>
         </div>
       </div>

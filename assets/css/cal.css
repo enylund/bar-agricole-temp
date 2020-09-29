@@ -35,11 +35,18 @@ input[type=email] {
   border: none;
   letter-spacing: 0.055em;
 }
-#mc-embedded-subscribe:hover {
+#mc-embedded-subscribe:hover,
+.contact-button:hover {
   color:white;
   background: black;
 
 }
+
+.contact-button {
+  color: black;
+  text-decoration: none;
+}
+
 
 body {
   font-family: arial, helvetica, sans-serif;
@@ -322,7 +329,8 @@ and (max-width : 645px) {
   }
 
   .bottom-section__container--left,
-  .bottom-section__container--right {
+  .bottom-section__container--right,
+  .bottom-section__container--center {
     text-align: center;
     margin-top: 10px;
   }
