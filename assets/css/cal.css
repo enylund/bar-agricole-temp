@@ -35,6 +35,11 @@ input[type=email] {
   border: none;
   letter-spacing: 0.055em;
 }
+#mc-embedded-subscribe:hover {
+  color:white;
+  background: black;
+
+}
 
 body {
   font-family: arial, helvetica, sans-serif;
@@ -319,6 +324,7 @@ and (max-width : 645px) {
   .bottom-section__container--left,
   .bottom-section__container--right {
     text-align: center;
+    margin-top: 10px;
   }
 
   body {
