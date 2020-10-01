@@ -67,28 +67,25 @@
             Join our mailing list
           </div>
           <div class="bottom-section__container--left">
-            <!-- Begin Mailchimp Signup Form -->
-              <div id="mc_embed_signup">
-                <form action="https://gmail.us2.list-manage.com/subscribe/post?u=19235564b33637abc607e6e23&amp;id=5da1e07bb2"
-                  method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
-                  novalidate>
-                  <div id="mc_embed_signup_scroll">
-                    <div class="mc-field-group">
-                      <input type="email" value="" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL">
-                    </div>
-                    <div id="mce-responses" class="clear">
-                      <div class="response" id="mce-error-response" style="display:none"></div>
-                      <div class="response" id="mce-success-response" style="display:none"></div>
-                    </div>
-                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text"
-                        name="b_19235564b33637abc607e6e23_5da1e07bb2" tabindex="-1" value=""></div>
-                    <div class="clear"><input type="submit" value="Sign-up" name="subscribe" id="mc-embedded-subscribe"
-                        class="button"></div>
-                  </div>
-                </form>
-              </div>
-            <!--End mc_embed_signup-->
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://trounormandsf.us10.list-manage.com/subscribe/post?u=2056d5641bfb7f548ac3c51f7&amp;id=4d668acdf8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+	
+<div class="mc-field-group">
+	<input type="email" value="" placeholder="Email"  name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2056d5641bfb7f548ac3c51f7_4d668acdf8" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Sign-up" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
           </div>
           <div class="bottom-section__container--right">
             <a class="contact-button" href="mailto:info@baragricole.com">Contact</a>  
@@ -98,5 +95,3 @@
     </div>
   </body>
 </html>
-
-
